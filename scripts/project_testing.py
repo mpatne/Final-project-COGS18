@@ -15,3 +15,5 @@ def test_2(u_input):
 
 initial_input = test_1(initial_input)
 test_2(initial_input)
+
+input_loop()
